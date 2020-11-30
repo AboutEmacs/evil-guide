@@ -1,0 +1,4 @@
+#+title: 说明
+#+author: Dylan Yang(zucchiniy)
+
+提供 [[https://github.com/noctuid/evil-guide][evil-guide]] 的中文翻译。
